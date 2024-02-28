@@ -23,8 +23,8 @@ I learn programming from school, self-teaching, and most importantly through inv
 - [ACM Marketplace](https://github.com/acm-uic/marketplace) : ReactJS, TailwindCSS (frontend), Pocketbase (backend)
 
 ### Hackathons 🏆
-- [UIC 2023 Hackathon (Best Overall Prize): Helping Hands](https://github.com/AdrianUIC/SparkHacksUIC) : ReactJS, HTML, CSS
-- [UIC 2024 Hackathon (2nd Place in Health Track): Sleep Tracker](https://github.com/Mightymanh/SleepTracker) : JavaScript, HTML, CSS
+- [SparkHacks 2023 @ UIC (Best Overall Prize): Helping Hands](https://github.com/AdrianUIC/SparkHacksUIC) : ReactJS, HTML, CSS
+- [SparkHacks 2024 @ UIC (2nd Place in Health Track): Sleep Tracker](https://github.com/Mightymanh/SleepTracker) : JavaScript, HTML, CSS
 
 ### Classes 🏫
 - [CS 362: Arduino Project - Bomb Defusal](https://github.com/Mightymanh/CS362_bomb) : C++, Arduino
