@@ -12,7 +12,7 @@ I have worked with: website development, cloud computing, robotics and automatio
 Python, JavaScript, TypeScript, HTML, CSS, Java, Scala, C++, C, SQL, F#
 
 ## Fun fact
-I ran Chicago Marathon 2024 in 4 hours 51 minutes and got a medal 🏅
+On 10/13/24, I ran Chicago Marathon 2024 in 4 hours 51 minutes 🏅
 
 <!--
 **Mightymanh/Mightymanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
