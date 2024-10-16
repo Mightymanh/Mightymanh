@@ -6,13 +6,13 @@ I have worked with: website development, cloud computing, robotics and automatio
 
 👉 Check out projects and stories in my portfolio: [https://mightymanh.com/](https://mightymanh.com/)
 
-👉 Click here to check my resume: [https://mightymanh.com/pdf/Resume_Manh.pdf](https://mightymanh.com/pdf/Resume_Manh.pdf)
+👉 Check out my resume: [https://mightymanh.com/pdf/Resume_Manh.pdf](https://mightymanh.com/pdf/Resume_Manh.pdf)
 
 ## Languages
 Python, JavaScript, TypeScript, HTML, CSS, Java, Scala, C++, C, SQL, F#
 
 ## Fun fact
-On 10/13/24, I ran Chicago Marathon 2024 in 4 hours 51 minutes 🏅
+On 10/13/24, I ran Chicago Marathon 2024 in 4 hours 51 minutes 🏅.
 
 <!--
 **Mightymanh/Mightymanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
