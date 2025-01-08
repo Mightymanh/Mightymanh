@@ -6,7 +6,7 @@ I have worked with: website development, cloud computing, robotics and automatio
 
 👉 Check out projects and stories in my portfolio: [https://mightymanh.com/](https://mightymanh.com/)
 
-👉 Check out my resume: [https://mightymanh.com/pdf/Resume_Manh.pdf](https://mightymanh.com/pdf/Resume_Manh.pdf)
+👉 Check out my resume: [https://mightymanh.com/pdf/Resume_Max.pdf](https://mightymanh.com/pdf/Resume_Max.pdf)
 
 ## Languages
 Python, JavaScript, TypeScript, HTML, CSS, Java, Scala, C++, C, SQL, F#
