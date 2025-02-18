@@ -2,11 +2,11 @@
 
 My name is Manh Phan. I am a senior at the University of Illinois Chicago (UIC), where I am pursuing a B.S. in computer science with a software engineering concentration. 
 
-I have worked with: website development, cloud computing, robotics and automation, computer vision, machine learning, and data science. I am working as the Secretary of [Chicago EDT](https://chicagoedt.org/) and I manage our website and media. I am an organizer of [SparkHacks Hackathon @UIC](https://sparkhacksatuic.com/) this year and I am developing our website!
+I have involved in various teamwork/individual projects, majority of which are developing application and tinkering with robotics. I am working as the Secretary of [Chicago EDT](https://chicagoedt.org/) and I manage our website and media. I am an organizer of [SparkHacks Hackathon @UIC](https://sparkhacks.org/) this year and I am developing our website!
 
 👉 Check out projects and stories in my portfolio: [https://mightymanh.com/](https://mightymanh.com/)
 
-👉 Check out my resume: [https://mightymanh.com/pdf/Resume_Max.pdf](https://mightymanh.com/pdf/Resume_Max.pdf)
+👉 Check out my resume: [https://mightymanh.com/pdf/Resume_Manh_Spring2025.pdf](https://mightymanh.com/pdf/Resume_Manh_Spring2025.pdf)
 
 ## Languages
 Python, JavaScript, TypeScript, HTML, CSS, Java, Scala, C++, C, SQL, F#
