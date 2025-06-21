@@ -2,7 +2,7 @@
 
 I am Manh Phan. I graduated at the University of Illinois Chicago (UIC) with a B.S. in computer science.
 
-What I am doing is about software engineer, startup, entrepreneurship, and watching Bloomberg Youtube videos.
+What I am doing is about software engineer, startup, and watching Bloomberg Youtube videos.
 
 👉 Check out projects and stories in my portfolio: [https://mightymanh.com/](https://mightymanh.com/)
 
