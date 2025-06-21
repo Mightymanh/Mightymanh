@@ -1,18 +1,18 @@
-# Hi! 👋
+# Hi! (Xin chào) 👋
 
-My name is Manh Phan. I am a senior at the University of Illinois Chicago (UIC), where I am pursuing a B.S. in computer science with a software engineering concentration. 
+I am Manh Phan. I graduated at the University of Illinois Chicago (UIC) with a B.S. in computer science.
 
-I have involved in various teamwork/individual projects, majority of which are developing application and tinkering with robotics. I am working as the Secretary of [Chicago EDT](https://chicagoedt.org/) and I manage our website and media. I am an organizer of [SparkHacks Hackathon @UIC](https://sparkhacks.org/) this year and I am developing our website!
+What I am doing is about software engineer, startup, entrepreneurship, and watching Bloomberg Youtube videos.
 
 👉 Check out projects and stories in my portfolio: [https://mightymanh.com/](https://mightymanh.com/)
 
 👉 Check out my resume: [https://mightymanh.com/pdf/Resume_Manh_Spring2025.pdf](https://mightymanh.com/pdf/Resume_Manh_Spring2025.pdf)
 
-## Languages
-Python, JavaScript, TypeScript, HTML, CSS, Java, Scala, C++, C, SQL, F#
+## Technical Skills
+Python, JavaScript/TypeScript, React/React Native, Express, Flask, C++
 
 ## Fun fact
-On 10/13/24, I ran Chicago Marathon 2024 in 4 hours 51 minutes 🏅.
+I am doing a challenge where I attempt to finish 12 popular boba drinks in Gather Tea Bar in Chicago, before I move to San Mateo for my work.
 
 <!--
 **Mightymanh/Mightymanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
