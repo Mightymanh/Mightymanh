@@ -4,7 +4,7 @@ I am Manh Phan. I graduated at the University of Illinois Chicago (UIC) with a B
 
 What I am doing is about software engineer, startup, and watching Netflix.
 
-## Strong Technical Skills 💪
+## Strong Technical Skills
 JavaScript/TypeScript, React/React Native, NodeJS
 
 ## Fun/Random fact
