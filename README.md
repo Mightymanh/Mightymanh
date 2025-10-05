@@ -7,7 +7,7 @@ What I am doing is about software engineer, startup, and watching Netflix.
 ## Strong Technical Skills
 JavaScript/TypeScript, React/React Native, NodeJS
 
-## Fun/Random fact
+## Fun/Random fact ⚡
 I am researching Impressionism; I was inspired by trip to Chicago Art of Institute.
 
 <!--
