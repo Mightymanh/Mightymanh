@@ -8,7 +8,7 @@ What I am doing is about software engineer, startup, and watching Netflix.
 JavaScript/TypeScript, React/React Native, NodeJS
 
 ## Fun/Random fact
-I am research Impressionism; I was inspired by trip to Chicago Art of Institute.
+I am researching Impressionism; I was inspired by trip to Chicago Art of Institute.
 
 <!--
 **Mightymanh/Mightymanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
