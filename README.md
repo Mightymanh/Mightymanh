@@ -2,13 +2,13 @@
 
 I am Manh Phan. I graduated at the University of Illinois Chicago (UIC) with a B.S. in computer science 2025.
 
-What I am doing is about software engineer, startup, and watching Bloomberg Youtube videos.
+What I am doing is about software engineer, startup, and watching Netflix.
 
-## Technical Skills
-Python, JavaScript/TypeScript, React/React Native, Express, Flask, C++
+## Strong Technical Skills 💪
+JavaScript/TypeScript, React/React Native, NodeJS
 
 ## Fun/Random fact
-I am reading "Olivia" by Dorothy Strachey.
+I am research Impressionism; I was inspired by trip to Chicago Art of Institute.
 
 <!--
 **Mightymanh/Mightymanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
